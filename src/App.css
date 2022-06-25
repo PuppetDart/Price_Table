@@ -1,0 +1,18 @@
+.App{
+  display: flex;
+  justify-content: center;
+}
+.card{
+  margin: 20px;
+}
+.searchInput{
+  width: 90%;
+  display: block;
+}
+.tableTitle{
+  font-size: 20px;
+  text-align: center;
+}
+.name{
+  width: 120px;
+}
